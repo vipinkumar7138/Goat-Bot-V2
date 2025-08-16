@@ -40,15 +40,15 @@
         "timeZone": "Asia/Kolkata",
         "credentials": {
                 "gmailAccount": {
-                        "email": "alexmapelipro@gmail.com",
-                        "clientId": "311554212450-f29viop58ue1l5st4namb9lidcsamv9m.apps.googleusercontent.com",
-                        "clientSecret": "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",
-                        "refreshToken": "1//04ef4cXfVliPTCgYIARAAGAQSNwF-L9IrD6iLFd3ebX5sMcckt2xBBbdrtzD_t-vZKxgFYnmHFESmZVKjrgFKiYiSSi9QQD1jlPM",
+                        "email": "ashish713914@gmail.com",
+                        "clientId": "502503150905-j0o0rhh0qbd5o5ll8qspla2rl7nm6le6.apps.googleusercontent.com",
+                        "clientSecret": "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",
+                        "refreshToken": "1//04fRn2RN4VZmWCgYIARAAGAQSNwF-L9Ir3i3Y0krk8IXfIhaCiCsBh38azKkfpsJ421zIuO6Vbzyyg7DJMI6Wb66jyjHtQOwXW1c",
                         "apiKey": ""
                 },
                 "gRecaptcha": {
-                        "siteKey": "6LeIWj4qAAAAAH95fVK7nqNrtSWvFK5Ne9vNYYgw",
-                        "secretKey": "6LeIWj4qAAAAANKgb8AMhzj6COk9pY8XsVxDJLkx"
+                        "siteKey": "6Ldg5qYrAAAAAFQAuTEJMYIcvDwcRCnQzW4_NEGv",
+                        "secretKey": "6Ldg5qYrAAAAAOG_phVzWNs7Mys7j67XGeTO3t--"
                 }
         },
         "dashBoard": {
