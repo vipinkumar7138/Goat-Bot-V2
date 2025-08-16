@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ ♕︎ | QueenBot V2 ]";
+const doNotDelete = "[ 🐐 | Goat Bot V2 ]";
 /**
 * @author NTKhang
 * @author: do not delete it
@@ -12,7 +12,7 @@ const doNotDelete = "[ ♕︎ | QueenBot V2 ]";
 
 module.exports = {
 	config: {
-		name: "help7",
+		name: "help",
 		version: "1.21",
 		author: "NTKhang",
 		countDown: 5,
